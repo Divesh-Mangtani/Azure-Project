@@ -1,4 +1,5 @@
-# Azure Mini Project
+# USING AZURE STATIC WEB SERVICE TO HOST A WEBSITE 
+URL: https://happy-tree-080bc7b10.2.azurestaticapps.net
 
-
+# STEPS TO USE AZURE STATIC WEB SERVICE 
 
